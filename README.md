@@ -11,16 +11,14 @@ To start, you'll finish off the site using the notes provided from the last deve
 1. Since starting the site, the client has 2 more features they'd like to add to the features section. They should be added to the end of the existing list as new list items.
 - Notifications from Popular Apps
 - 10 Days of Battery Life
-- 
 2. An image has been provided for the right side of the features section. You'll see there's an image tag there already in the HTML (has a class of features__image), but the source attribute is empty. Please link the correct image here.
-  
 3. There are two paragraph elements in the footer, one for the email and one for the phone number. Change these elements to use anchor tags instead of paragraph tags. Keep the same class name, as this will keep the proper styling applied.
     For the email:
     Use info@ff.com as the content
     Use mailto:info@ff.com as the hyperlink reference
     For the phone number:
     Use 867 - 102 - 4337 as the content
-    Use tel:8671024337 as the hyperlink reference
+    Use tel:8671024337 as the hyperlink reference  
 4. The client would like to have the 'features' link in the top navigation bar to be highlighted always. Add the class nav__sections-link--highlight in order to have this applied.
 5. Add two taglines to follow the header copy:
     Minimal, yet sharp
@@ -38,23 +36,23 @@ Add a 2px solid black dividing line between the pricing__card-top & pricing__car
 # Part 2
 The client has requested that a new section of the website be built between the "Features" and the "Pricing" sections. This new section will be a more comprehensive breakdown of the features mentioned. You can find the content below. There is no mockup provided for this section. With your knowledge of HTML (don't forget about semantics!), build this to the best of your ability. Then use your knowledge of CSS to style the section.
 
-A Massive 1.5 Inch Touch Screen
-Size is what matters when it comes to a smart watch screen. Read all your notifications with plenty of space.
-
-Mix and Match Designs
-Personalize your watch face to match your own unique style with many combinations of background images, clock styles and colors.
-
-Water Resistant up to 7 Feet
-IP68 Weatherproof rating. Fit to withstand dust, dirt and sand and resistant to submersion up to a maximum depth of 7 feet underwater for up to 30 minutes.
-
-Tracking your Steps, Heart Rate & Sleep.
-Check out your step progress during the day with the in app-tracker. Keep an eye on your heart rate easily and conveniently. And when you’re ready for your head to hit the pillow, track that too. 
-
-Notifications from Popular Apps
-Get all your notifications from all your accounts conveniently on your wrist
-
-Up to 10 Days of Battery Life
-With a battery capacity up to 300mAh, you’ll have no problem getting through the week with plenty of charge to spare. 
+  A Massive 1.5 Inch Touch Screen
+  Size is what matters when it comes to a smart watch screen. Read all your notifications with plenty of space.
+  
+  Mix and Match Designs
+  Personalize your watch face to match your own unique style with many combinations of background images, clock styles and colors.
+  
+  Water Resistant up to 7 Feet
+  IP68 Weatherproof rating. Fit to withstand dust, dirt and sand and resistant to submersion up to a maximum depth of 7 feet underwater for up to 30 minutes.
+  
+  Tracking your Steps, Heart Rate & Sleep.
+  Check out your step progress during the day with the in app-tracker. Keep an eye on your heart rate easily and conveniently. And when you’re ready for your head to hit the pillow, track that too. 
+  
+  Notifications from Popular Apps
+  Get all your notifications from all your accounts conveniently on your wrist
+  
+  Up to 10 Days of Battery Life
+  With a battery capacity up to 300mAh, you’ll have no problem getting through the week with plenty of charge to spare. 
 
 Furthermore, you may go beyond the basic requirements above to showcase your current HTML and CSS skills, including any skills not covered in the Admissions Challenge such as Flexbox or CSS animations.how
 
